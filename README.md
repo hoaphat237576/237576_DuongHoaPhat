@@ -80,3 +80,17 @@ Câu 6: Đóng gói Frontend bằng Docker
 
 \- Port: 8080
 
+
+
+\## Câu 8: Triển khai Backend API lên Render
+
+
+
+\- Backend API: https://TEN-DICH-VU.onrender.com
+
+\- API danh sách nhân viên: https://api-237576.onrender.com/api/employees
+
+\- Database: MongoDB Atlas
+
+\- Trạng thái: Live
+
