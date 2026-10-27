@@ -62,35 +62,17 @@ Triển khai ứng dụng: Render
 
 
 
-Câu 5: Docker Backend
 
-\- Docker Hub: https://hub.docker.com/r/hoaphat237576/backend
 
-\- Image: hoaphat237576/backend:latest
+Docker Hub: https://hub.docker.com/r/hoaphat237576/backend
 
-\- Port: 5000
-
-Câu 6: Đóng gói Frontend bằng Docker
+Docker Hub: https://hub.docker.com/r/hoaphat237576/frontend
 
 
 
-\- Docker Hub: https://hub.docker.com/r/hoaphat237576/frontend
-
-\- Image: hoaphat237576/frontend:latest
-
-\- Port: 8080
+Frontend Render: https://web-237576.onrender.com
 
 
 
-\## Câu 8: Triển khai Backend API lên Render
-
-
-
-\- Backend API: https://TEN-DICH-VU.onrender.com
-
-\- API danh sách nhân viên: https://api-237576.onrender.com/api/employees
-
-\- Database: MongoDB Atlas
-
-\- Trạng thái: Live
+Backend API: https://api-237576-iiqp.onrender.com/api
 
