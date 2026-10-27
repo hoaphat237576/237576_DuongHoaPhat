@@ -70,3 +70,13 @@ Câu 5: Docker Backend
 
 \- Port: 5000
 
+Câu 6: Đóng gói Frontend bằng Docker
+
+
+
+\- Docker Hub: https://hub.docker.com/r/hoaphat237576/frontend
+
+\- Image: hoaphat237576/frontend:latest
+
+\- Port: 8080
+
