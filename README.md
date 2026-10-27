@@ -62,3 +62,11 @@ Triển khai ứng dụng: Render
 
 
 
+Câu 5: Docker Backend
+
+\- Docker Hub: https://hub.docker.com/r/hoaphat237576/backend
+
+\- Image: hoaphat237576/backend:latest
+
+\- Port: 5000
+
